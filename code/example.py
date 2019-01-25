@@ -7,7 +7,7 @@ YII_CSRF_TOKEN=YmthQ3h4dTJmZFNZcTdrOEFFbEhQeU9XR0U1YWxUWEkIFy-SLi5-tAQpNf9yZlNcJ
 dl = Downloader(cookie=cookie)
 
 # download by class URL:
-dl.download_course_by_url('https://www.skillshare.com/classes/Elasticsearch-6-and-Elastic-Stack-In-Depth-and-Hands-On/302636262/')
+dl.download_course_by_url('https://www.skillshare.com/classes/Building-Recommender-Systems-with-Machine-Learning-and-AI/1493261308')
 
 # or by class ID:
 # dl.download_course_by_class_id(189505397)
