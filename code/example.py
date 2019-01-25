@@ -7,7 +7,7 @@ YII_CSRF_TOKEN=YmthQ3h4dTJmZFNZcTdrOEFFbEhQeU9XR0U1YWxUWEkIFy-SLi5-tAQpNf9yZlNcJ
 dl = Downloader(cookie=cookie)
 
 # download by class URL:
-dl.download_course_by_url('https://www.skillshare.com/classes/Deep-Learning-and-Neural-Networks-with-Python/45606211')
+dl.download_course_by_url('https://www.skillshare.com/classes/Executive-Briefing-Big-Data-and-the-Hadoop-Ecosystem/1567374575')
 
 # or by class ID:
 # dl.download_course_by_class_id(189505397)
